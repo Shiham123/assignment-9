@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Health Fairs",
+    "image": "https://raw.githubusercontent.com/Shiham123/img-for-creative/master/Health%20Fairs1.jpg",
+    "price": 100,
+    "description": "A Health Fair is a community-oriented event or program that aims to promote and improve the overall health and well-being of individuals and communities. These events typically bring together a variety of healthcare providers, organizations, and resources in one location to offer a wide range of health-related services, information, and screenings to the public. Here is a description of what a Health Fair typically entails. A Health Fair is a comprehensive health and wellness event designed to empower individuals and communities with the knowledge, resources, and tools to make informed decisions about their health. These events are usually organized by local healthcare providers, community organizations, or government agencies and are open to people of all ages and backgrounds. "
+  },
+  {
+    "id": 2,
+    "name": "Healthy Eating Habits",
+    "image": "https://raw.githubusercontent.com/Shiham123/img-for-creative/master/Healthy%20Eating%20Habits.jpg",
+    "price": 200,
+    "description": "Yoga is a holistic and ancient practice that encompasses physical postures, breathing exercises, meditation, and mindfulness techniques. It originated in India thousands of years ago and has since gained popularity worldwide for its numerous physical, mental, and spiritual benefits.Yoga is a comprehensive system for enhancing physical, mental, and emotional well-being through a combination of physical postures, breath control, meditation, and ethical principles. It is rooted in ancient Indian philosophy and is often seen as a path to self-discovery, self-improvement, and inner peace. Yoga is a versatile practice that can be tailored to suit individual needs and goals. Whether seeking physical fitness, stress relief, or a deeper spiritual connection, yoga offers a wide range of benefits. It is accessible to people of all ages and fitness levels, making it a valuable tool for improving overall health and well-being."
+  },
+  {
+    "id": 3,
+    "name": "Fitness Retreats",
+    "image": "https://raw.githubusercontent.com/Shiham123/img-for-creative/master/q_70.jpg",
+    "price": 300,
+    "description": "A Fitness Retreat is a specialized wellness program or vacation experience designed to promote physical fitness, holistic health, and personal well-being. These retreats typically take place in scenic and tranquil locations, offering participants a break from their daily routines to focus on exercise, healthy eating, relaxation, and self-improvement. A Fitness Retreat is an immersive and rejuvenating experience that combines elements of fitness, wellness, and relaxation in a picturesque and serene setting. These retreats are carefully curated to provide participants with an opportunity to escape the demands of their everyday lives and invest in their physical and mental well-being.In summary, a Fitness Retreat is a comprehensive wellness experience that offers a combination of physical activity, healthy eating, relaxation, and personal development in a peaceful and rejuvenating environment. These retreats are designed to inspire and empower individuals to prioritize their health and well-being, and they can be a transformative and enriching experience for participants looking to kickstart a healthier lifestyle."
+  },
+  {
+    "id": 4,
+    "name": "Wellness Expos",
+    "image": "https://raw.githubusercontent.com/Shiham123/img-for-creative/master/health%26wellness-sq2.jpg",
+    "price": 150,
+    "description": "A Wellness Expo is a public event or exhibition that focuses on promoting and showcasing various aspects of wellness, health, and holistic living. These expos bring together a diverse range of exhibitors, professionals, and resources to offer attendees access to information, products, and services related to physical, mental, and emotional well-being. A Wellness Expo is a dynamic and interactive gathering that serves as a hub for individuals interested in enhancing their overall well-being. These expos are typically organized by local communities, wellness organizations, or event management companies and are open to the public.In summary, a Wellness Expo is a comprehensive event dedicated to promoting and enhancing various facets of wellness and holistic living. It provides a valuable platform for individuals to explore and learn about different aspects of health and well-being, connect with experts and professionals, and make informed choices about their own health journey. These expos aim to inspire and empower individuals to prioritize their wellness and lead healthier, more fulfilling lives."
+  },
+  {
+    "id": 5,
+    "name": "Wellness Workshops",
+    "image": "https://raw.githubusercontent.com/Shiham123/img-for-creative/master/Wellness%20Workshops.png",
+    "price": 250,
+    "description": "Certainly! A Wellness Workshop is a service that offers a structured and interactive learning experience focused on improving overall well-being. These workshops are typically designed to educate and empower participants to make positive lifestyle changes that enhance their physical, mental, and emotional health. Wellness Workshops are educational and hands-on sessions aimed at promoting holistic health and well-being. These workshops are facilitated by experts, such as certified nutritionists, fitness trainers, mental health professionals, or holistic wellness coaches. They are typically conducted in group settings and may span a few hours to several days, depending on the depth and breadth of the topic. Wellness Workshops are valuable opportunities for individuals looking to take proactive steps towards improving their quality of life and achieving a balanced state of well-being. They provide practical tools and knowledge that can be applied to everyday life, helping participants lead healthier and happier lives."
+  },
+  {
+    "id": 6,
+    "name": "Nutritional Seminars",
+    "image": "https://raw.githubusercontent.com/Shiham123/img-for-creative/master/Nutritional%20Seminars.jpg",
+    "price": 350,
+    "description": "Certainly! A Nutritional Seminar is an educational event or program focused on providing valuable information and insights related to nutrition, diet, and healthy eating habits. These seminars are typically led by nutrition experts, dietitians, or health professionals with the aim of helping participants make informed choices about their diet and improve their overall health. Nutritional Seminars are informative sessions that delve into the science and practice of nutrition. These seminars are designed to empower individuals with knowledge about how food choices impact their health and well-being. They are typically conducted in a seminar-style format, which may include presentations, discussions, Q&A sessions, and sometimes interactive activities. Nutritional Seminars are valuable resources for individuals who want to take control of their dietary choices and make positive changes to their nutrition habits. They provide evidence-based information, practical guidance, and the motivation needed to adopt a healthier approach to eating, ultimately contributing to improved overall health and well-being."
+  }
+]

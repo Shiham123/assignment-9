@@ -1,0 +1,62 @@
+let greeting;
+greetign = {};
+console.log(greetign);
+
+this answer is [A]
+
+explanation : greetign is empty object because of this it will print answer
+
+//---------------
+
+
+function sum(a, b) {
+  return a + b;
+}
+
+sum(1, "2");
+
+Answer : [C] - "12"
+
+explanation : javascript will check the type of this two. 1 is number but "2" is a string so it will print 12.
+
+//------------------
+
+const food = ["🍕", "🍫", "🥑", "🍔"];
+const info = { favoriteFood: food[0] };
+
+info.favoriteFood = "🍝";
+
+console.log(food);
+
+Answer : [A] - original array
+
+explanation : we does not touch the array so how can it modify
+
+//-------------------------
+
+function sayHi(name) {
+  return `Hi there, ${name}`;
+}
+
+console.log(sayHi());
+
+Answer : [B]
+
+explanation : b print because parameter set but it value not pass in console.log(sayHi()) so it print undefined.
+
+
+// -----------------
+
+
+let count = 0;
+const nums = [0, 1, 2, 3];
+
+nums.forEach((num) => {
+  if (num) count += 1;
+});
+
+console.log(count);
+
+Answer : [C]
+
+explanation : don't know.
